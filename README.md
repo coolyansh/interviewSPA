@@ -1,4 +1,5 @@
 A basic Interview Scheduler site with CRUD functionalities.
+Created a SPA for performing all tasks such as adding, editing and deleting interviews and participants (which relies on API calls added for all CRUD tasks for interviews and participants).
 
 * Ruby version : 2.6.6
 * Rails version : 5.1.7
