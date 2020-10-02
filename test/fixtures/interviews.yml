@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  interviewer: one
+  interviewee: one
+  start_time: 2020-09-30 12:59:17
+  end_time: 2020-09-30 12:59:17
+
+two:
+  interviewer: two
+  interviewee: two
+  start_time: 2020-09-30 12:59:17
+  end_time: 2020-09-30 12:59:17
